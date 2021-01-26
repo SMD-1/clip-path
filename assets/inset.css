@@ -1,0 +1,10 @@
+.container{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background: #BCEDFF;
+    clip-path: inset(20% 40% 50% 50%);
+}
+a{
+    margin: 20px 30px;
+}
